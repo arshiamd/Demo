@@ -1,0 +1,73 @@
+{
+    "Mobile":[
+        {
+            "features":{
+                "photo": "https://static.hub.91mobiles.com/wp-content/uploads/2020/07/OnePlus-Nord-27.jpg",
+                "Brand": "OnePlus-Nord",
+                "price": "$352",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP + 8 MP",
+                    "4115 mAh",
+                    "Qualcomm Snapdragon 765G",
+                    "6 GB",
+                    "48 MP + 8 MP + 5 MP + 2 MP",
+                    "6.44 inches"
+            ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://static.hub.91mobiles.com/wp-content/uploads/2020/07/Apple-iPhone-12-1.jpg",
+                "Brand": "Apple iPhone 12",
+                "price": "$1014",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                        "32 MP + 8 MP",
+                        "4115 mAh",
+                        "Qualcomm Snapdragon 765G",
+                        "6 GB",
+                        "48 MP + 8 MP + 5 MP + 2 MP",
+                        "6.44 inches"
+                ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://static.hub.91mobiles.com/wp-content/uploads/2020/04/Samsung-Galaxy-M31-6.jpg",
+                "Brand": "Samsung M31",
+                "price": "$264",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP",
+                    "6000 mAh",
+                    "2.3GHz octa-core (4x2.3GHz + 4x1.7GHz)",
+                    "6 GB",
+                    "64 MP + 12 MP + 5 MP + 5 MP",
+                    "6.5 inches"
+            ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://static.hub.91mobiles.com/wp-content/uploads/2020/07/oppo-reno4-pro-india-image.jpg",
+                "Brand": "Oppo Reno4 pro",
+                "price": "$600",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP",
+                    "4000 mAh",
+                    "Qualcomm Snapdragon 720G | 8 GB",
+                    "8 GB",
+                    "48 MP + 8 MP + 2 MP + 2 MP",
+                    "6.5 inches"
+            ]
+                
+            }
+        }
+    ]
+}
