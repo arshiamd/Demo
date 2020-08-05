@@ -5,10 +5,11 @@ import {BrowserRouter , Route} from 'react-router-dom';
 function App (){
   return(
     <div className="App" style={{textAlign: "center"}}>
-      {/* <Home />
-        */}
+      <BrowserRouter basename={window.location.pathname || ''}>
       <Route exact path = '/' component = {Home} />
       <Route exact path = '/Details' component = {Details} />
+      </BrowserRouter>
+      
     </div>
   );
  
